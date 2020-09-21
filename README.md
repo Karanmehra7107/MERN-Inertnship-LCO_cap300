@@ -1,6 +1,11 @@
 ## MERN Login Signup Component
 
-Minimalistic, ready-to-use component for Sessions based Login and Sign-Up using Reactjs, Redux, Bootstrap Node.js + Express and MongoDB, can be used as a starting point for another project that needs authentication.
+Minimalistic, ready-to-use component for Sessions based Login and Sign-Up using Reactjs, Redux, Bootstrap Node.js + Express and MongoDB, can be used as a starting point for another project that needs authentication
+
+__Deployment:https://cap300-login-mern-karan.herokuapp.com/__
+
+
+
 
 ## Features
 
