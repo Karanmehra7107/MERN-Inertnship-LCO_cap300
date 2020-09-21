@@ -25,7 +25,7 @@ Minimalistic, ready-to-use component for Sessions based Login and Sign-Up using 
 Clone the repository
 
 ```
- https://github.com/shawn-dsilva/mern-login-signup-component.git
+ https://github.com/Karanmehra7107/MERN-Inertnship-LCO_cap300.git
 ```
 
 Install packages for Node backend
@@ -41,12 +41,7 @@ Install packages for React client
  cd mern-login-signup-component/client
  npm install
 ```
-To Test Locally
 
-remove the line ```"homepage": "https://demos.shawndsilva.com/sessions-auth-app",```
-from ```client/package.json```
-remove ```basename="/sessions-auth-app"```
-from ```client/src/index.js```
 
 
 Start Dev Server ( both React server and Nodejs server )
